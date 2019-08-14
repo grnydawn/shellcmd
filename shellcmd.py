@@ -18,7 +18,7 @@ elif sys.platform == "win32":
 
 
 class ShellCmd(Task):
-    "A shell command library"
+    "execute a shell command"
 
     _name_ = "shellcmd"
     _version_ = "0.1.0"
